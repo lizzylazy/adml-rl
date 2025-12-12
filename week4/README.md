@@ -4,7 +4,7 @@ Learn to use professional RL libraries and compare different algorithms on Lunar
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 In this lab, you will:
 1. Use stable-baselines3 to train RL agents
@@ -15,10 +15,10 @@ In this lab, you will:
 
 ---
 
-## 📓 Lab Materials
+## Lab Materials
 
 ### Lab Assignment: LunarLander
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/week4/week4_lab_lunar_lander.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zhaw-physical-ai/adml-rl/blob/main/week4/week4_lab_lunar_lander.ipynb)
 
 **Tasks:**
 - Task 1: Explore the LunarLander environment
@@ -32,13 +32,13 @@ In this lab, you will:
 ---
 
 ### Lab Solutions
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/week4/week4_lab_solutions.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zhaw-physical-ai/adml-rl/blob/main/week4/week4_lab_solutions.ipynb)
 
 Complete solutions with expected results and analysis.
 
 ---
 
-## 🚀 What You'll Learn
+## What You'll Learn
 
 - **Algorithm comparison**: See PPO, A2C, DQN in action
 - **Hyperparameter tuning**: Learning rate, batch size, etc.
@@ -47,7 +47,7 @@ Complete solutions with expected results and analysis.
 
 ---
 
-## 📊 Expected Results
+## Expected Results
 
 | Algorithm | Training Steps | Mean Reward | Success |
 |-----------|----------------|-------------|---------|
@@ -59,7 +59,7 @@ Complete solutions with expected results and analysis.
 
 ---
 
-## 💻 Running Locally
+## Running Locally
 
 All labs run in Google Colab with no setup required.
 
@@ -72,20 +72,9 @@ Then open notebooks in Jupyter.
 
 ---
 
-## 📚 Resources
+## Resources
 
 - [Stable-Baselines3 Docs](https://stable-baselines3.readthedocs.io/)
 - [LunarLander Environment](https://gymnasium.farama.org/environments/box2d/lunar_lander/)
 - [PPO Paper](https://arxiv.org/abs/1707.06347)
 
----
-
-## What's Next?
-
-After completing the lab, choose a project for the next 3 sessions:
-- **Project 1:** Atari Pong (visual RL)
-- **Project 2:** Highway Driving (robotics/control)
-- **Project 3:** Stock Trading (finance domain)
-- **Project 4:** Multi-Agent RL (cooperation)
-
-See `../projects/` folder for details!
